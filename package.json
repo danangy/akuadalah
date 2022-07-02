@@ -3,16 +3,10 @@
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js"
   },
-
   "name": "mern-tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000m\u0000e\u0000r\u0000n\u0000-\u0000t\u0000u\u0000t\u0000o\u0000r\u0000i\u0000a\u0000l\u0000\r\u0000 \u0000",
   "main": "index.js",
-  "scripts": {
-    "start": "node backend/server.js",
-    "server": "nodemon backend/server.js"
-  },
-
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -23,5 +17,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danangy/mern-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danangy/mern-tutorial/issues"
+  },
+  "homepage": "https://github.com/danangy/mern-tutorial#readme"
 }
